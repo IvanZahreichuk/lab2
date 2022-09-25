@@ -1,0 +1,16 @@
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.exe
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.deps.json
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.runtimeconfig.json
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.runtimeconfig.dev.json
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.dll
+D:\C#\Practice2\Q7\Q7\bin\Debug\net5.0\Q7.pdb
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.csproj.AssemblyReference.cache
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.AssemblyInfoInputs.cache
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.AssemblyInfo.cs
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.csproj.CoreCompileInputs.cache
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.dll
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\refint\Q7.dll
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.pdb
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\Q7.genruntimeconfig.cache
+D:\C#\Practice2\Q7\Q7\obj\Debug\net5.0\ref\Q7.dll

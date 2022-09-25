@@ -1,0 +1,16 @@
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.exe
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.deps.json
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.runtimeconfig.json
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.runtimeconfig.dev.json
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.dll
+D:\C#\Practice2\Q1\Q1\bin\Debug\net5.0\Q1.pdb
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.csproj.AssemblyReference.cache
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.AssemblyInfoInputs.cache
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.AssemblyInfo.cs
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.csproj.CoreCompileInputs.cache
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.dll
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\refint\Q1.dll
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.pdb
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\Q1.genruntimeconfig.cache
+D:\C#\Practice2\Q1\Q1\obj\Debug\net5.0\ref\Q1.dll
